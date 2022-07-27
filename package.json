@@ -1,0 +1,22 @@
+{
+  "name": "back-end-nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jose-afreitas/Back-End-Nodejs.git"
+  },
+  "author": "José Augusto",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jose-afreitas/Back-End-Nodejs/issues"
+  },
+  "homepage": "https://github.com/Jose-afreitas/Back-End-Nodejs#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
